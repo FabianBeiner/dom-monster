@@ -1,4 +1,6 @@
-== DOM Monster: a cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on, and give you its bill of health
+== [UNMAINTAINED] DOM Monster: a cross-platform, cross-browser bookmarklet that will analyze the DOM & other features of the page you're on, and give you its bill of health
+
+<b>This repository is unmaintained. Please go to https://github.com/madrobby/dom-monster for the latest version.</b>
 
 Just install the DOM Monster bookmarklet, and use it on any web page or app.
 If there are problems, DOM Monster will point them out and even make suggestions on how to fix 'em.
